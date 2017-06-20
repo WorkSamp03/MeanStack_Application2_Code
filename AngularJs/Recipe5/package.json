@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "browserify": "10.2.3",
+    "gulp": "3.8.11",
+    "gulp-browserify": "0.5.1"
+  },
+  "dependencies": {
+    "browserify": "^10.2.3"
+  }
+}
